@@ -41,7 +41,7 @@
    ```
 
    ### Project Structure
-
+   ```
    f1-analysis-app/
    │
    ├── data/                   # Directory containing the dataset files
@@ -67,7 +67,7 @@
    │   └── main.py             # Main application script
    ├── requirements.txt        # List of dependencies
    └── README.md               # Project documentation
-
+   ```
 
    Data
    The data directory should contain the necessary dataset files required for the analysis. Ensure that the data files are in the correct format and structure as expected by the data_loader.py script.
